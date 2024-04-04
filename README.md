@@ -9,9 +9,10 @@ I'm passionate about sharing my insights and opinions on physics and quantum mec
 ### Connections
 
 stay in touch,<br/>
-mail:     [mail-me](mailto://thisismeamir@outlook.com)<br/>
-telegram: [link-me](https://www.t.me/thisismeamir)<br/>
-x: [X](https://x.com/thisismekida)
+
+| mail: |    [mail-me](mailto://thisismeamir@outlook.com)|
+|telegram:| [link-me](https://www.t.me/thisismeamir)|
+|x:| [X](https://x.com/thisismekida)|
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisismeamir" alt="Kid A" /></p>
