@@ -16,4 +16,4 @@ stay in touch,<br/>
 # Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisismeamir" alt="Kid A" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismeamir&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=independent-society-of-knowledge&layout=compact)
