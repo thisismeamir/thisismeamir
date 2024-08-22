@@ -14,6 +14,5 @@ stay in touch,<br/>
  [X](https://x.com/thisismekida) 
 
 # Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisismeamir" alt="Kid A" /></p>
-
+![Kid A Stats](https://github-readme-stats.vercel.app/api?username=thisismeamir&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismeamir&layout=compact)
