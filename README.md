@@ -1,11 +1,7 @@
+![image](https://github.com/user-attachments/assets/7a158c1b-6499-4f61-94ba-0e7e8fb4401c)
+
 # About Me 🚀
-
-I'm Kid A, a physics enthusiast based in Norway, on a never-ending quest to unravel the mysteries of the universe. As a dedicated physics student, I dive headfirst into the intriguing realms of quantum mechanics, quantum information, and the foundations that underpin this captivating field.
-
-My programming toolkit includes Kotlin, Python, C++, HTML/CSS, Vue.js, SQL, and Mathematica, allowing me to not only explore the quantum world but also craft elegant digital solutions to complex problems.
-
-I'm passionate about sharing my insights and opinions on physics and quantum mechanics, and I never shy away from a deep and engaging discussion. 
-
+I’m a physics student passionate about computational, and foundations of physics. I work on projects like PartiKle, Numerical Relativity, Higgs Production for particle physics, develop scientific libraries in Kotlin, and apply AI in stock market analysis. As the founder of the Independent Society of Knowledge, I focus on decentralizing academia and fostering collaboration. I enjoy tackling complex problems, whether in research, programming, or product design.
 # Connections
 
 stay in touch,<br/>
@@ -15,4 +11,4 @@ stay in touch,<br/>
 
 # Stats
 ![Kid A Stats](https://github-readme-stats.vercel.app/api?username=thisismeamir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismeamir&layout=compact)
+
