@@ -2,6 +2,10 @@
 
 # About Me 🚀
 I’m a physics student passionate about computational, and foundations of physics. I work on projects like PartiKle, Numerical Relativity, Higgs Production for particle physics, develop scientific libraries in Kotlin, and apply AI in stock market analysis. As the founder of the Independent Society of Knowledge, I focus on decentralizing academia and fostering collaboration. I enjoy tackling complex problems, whether in research, programming, or product design.
+
+![image](https://github.com/user-attachments/assets/0faf3347-31c5-486f-87f2-1a7fab0185f4)
+
+
 # Connections
 
 stay in touch,<br/>
