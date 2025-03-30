@@ -15,4 +15,5 @@ stay in touch,<br/>
 
 # Stats
 ![Kid A Stats](https://github-readme-stats.vercel.app/api?username=thisismeamir&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisismeamir)
 
