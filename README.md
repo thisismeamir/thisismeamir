@@ -14,6 +14,6 @@ stay in touch,<br/>
  [X](https://x.com/thisismekida) 
 
 # Stats
-![Kid A Stats](https://github-readme-stats.vercel.app/api?username=thisismeamir&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisismeamir)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisismeamir&theme=omni&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismeamir&theme=omni&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismeamir&theme=omni&show_icons=true&hide_border=true&layout=compact)
